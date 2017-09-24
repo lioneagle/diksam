@@ -1,0 +1,2 @@
+# diksam
+simple static language
